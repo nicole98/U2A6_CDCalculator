@@ -1,5 +1,5 @@
 /*
- * Nicole Ta
+ * Nicole Tao
  * CDCalculator.java
  * Calculates the CD based on numbers inouted by user
  * March 28th, 2018
